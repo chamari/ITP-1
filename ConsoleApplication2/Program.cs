@@ -16,7 +16,7 @@ namespace ConsoleApplication2
             Console.WriteLine("please enter the operand2");
             value = Console.ReadLine();
             int operand2 = int.Parse(value);
-            Console.WriteLine("please enter the operator");
+            Console.WriteLine("please enter the operator now");
             value = Console.ReadLine();
 
             int answer = 0;
